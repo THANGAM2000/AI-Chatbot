@@ -68,4 +68,3 @@ You will need a Google Cloud Project with the Gemini API enabled and an API Key.
 5.  **Clear chats:** Click the "delete" icon to clear the entire conversation.
 6.  **Toggle theme:** Click the "light\_mode" or "dark\_mode" icon to switch themes.
 
-## Project Structure
